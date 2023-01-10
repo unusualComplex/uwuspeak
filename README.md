@@ -6,7 +6,9 @@ to what you could get when the plugin is enabled.
 # Examples
 
 Just got a purple drop! > Juwst got a puwpwe dwop!
-Alright, The group meeting time is in 1 hour. Don't be late > Awwight, the gwoup meeting time iws in 1 houw. Down't be wate
+
+Alright, The group meeting time is in 1 hour. Don't be late >
+Awwight, the gwoup meeting time iws in 1 houw. Down't be wate
 
 # WARNING
 This is just a concept idea as of right now, Nothing in this repository or plugin is mean't for anyone other
